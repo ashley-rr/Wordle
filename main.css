@@ -1,0 +1,16 @@
+#mainBox {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  padding: 10px;
+  margin: auto;
+}
+
+#keyboard {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
