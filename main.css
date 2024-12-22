@@ -1,16 +1,15 @@
 #mainBox {
-  width: 100px;
-  height: 100px;
+  width: 350px;
+  height: 525px;
   background-color: lightblue;
   padding: 10px;
   margin: auto;
 }
 
 #keyboard {
-  width: 100px;
-  height: 100px;
+  width: 600px;
+  height: 200px;
   background-color: lightblue;
   padding: 10px;
-  margin: auto;
-  margin-top: 20px;
+  margin: 10px auto auto auto;
 }
