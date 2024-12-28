@@ -1,0 +1,16 @@
+* {
+  line-height: 4rem;
+}
+
+.title {
+  text-align: center;
+  margin-top: 7vw;
+  font-size: 3rem;
+}
+
+.steps {
+  display: table;
+  margin: auto;
+  margin-top: 2vw;
+  font-size: 2rem;
+}
